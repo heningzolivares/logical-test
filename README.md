@@ -1,3 +1,5 @@
+## Public url
+[CLICK ME](https://logical-test.vercel.app/)
 ## Installation
 
 This project was created with Vite, first clone the project and then run the following command
@@ -20,4 +22,5 @@ This command will launch jest tests
 
 ```
 npm run test
+
 ```
